@@ -1,0 +1,5 @@
+2003,   O Código Da Vinci,   Dan Brown,  9.8,  Lido
+1997,   Harry Potter e a Pedra Filosofal,   J.K. Rowling,  9.1,  Lido
+1954,   A Sociedade do Anel,   J.R.R. Tolkien,  8.7,  Lido
+2005,   A Menina que Roubava Livros,   Markus Zusak,  7.9,  Lendo
+2012,   A Culpa é das Estrelas,   John Green,  7.5,  Lido
